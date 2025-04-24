@@ -1,0 +1,45 @@
+{
+  "title": "Death Angel's Pack",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Death Angel",
+      "url": "https://github.com/TrueDeathAngel"
+    }
+  ],
+  "packs": [
+    {
+      "name": "subclasses",
+      "label": "Подклассы [Death Angel]",
+      "path": "packs/subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack",
+  "manifest": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.0/module.json",
+  "download": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.0/module.zip",
+  "id": "death-angels-pack",
+  "relationships": {
+    "requires": [
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "icon-picker",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+}
