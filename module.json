@@ -1,7 +1,7 @@
 {
   "id": "death-angels-pack",
   "title": "Death Angel's Pack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Death Angel",
@@ -22,8 +22,8 @@
       }
     }
   ],
-  "manifest": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.0/module.json",
-  "download": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.0/module.zip",
+  "manifest": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.1/module.json",
+  "download": "https://github.com/TrueDeathAngel/Death-Angel-s-Pack/releases/download/1.0.1/module.zip",
   "relationships": {
     "requires": [
       {
