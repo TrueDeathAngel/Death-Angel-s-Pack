@@ -36,6 +36,11 @@
         "type": "module",
         "compatibility": {}
       }
+      {
+        "id": "automated-animations",
+        "type": "module",
+        "compatibility": {}
+      }
     ]
   },
   "compatibility": {

@@ -1,23 +1,3 @@
-2025/04/24-18:42:21.579 2de4 Recovering log #11
-2025/04/24-18:42:21.580 2de4 Level-0 table #13: started
-2025/04/24-18:42:21.629 2de4 Level-0 table #13: 48081 bytes OK
-2025/04/24-18:42:21.691 2de4 Delete type=0 #11
-2025/04/24-18:42:21.704 2de4 Delete type=3 #10
-2025/04/24-18:43:53.481 350c Level-0 table #16: started
-2025/04/24-18:43:53.481 350c Level-0 table #16: 0 bytes OK
-2025/04/24-18:43:53.503 350c Delete type=0 #14
-2025/04/24-18:43:53.505 350c Manual compaction at level-0 from '!folders!B39rR8EzSLktAWLK' @ 72057594037927935 : 1 .. '!items.effects!boQt5qEtG77kdN8X.wfrUM87wcavRNCIk' @ 0 : 0; will stop at '!items!vNb0wtE7AukjwoHF' @ 28 : 1
-2025/04/24-18:43:53.505 350c Compacting 1@0 + 0@1 files
-2025/04/24-18:43:53.547 350c Generated table #17@0: 2 keys, 4969 bytes
-2025/04/24-18:43:53.547 350c Compacted 1@0 + 0@1 files => 4969 bytes
-2025/04/24-18:43:53.569 350c compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/04/24-18:43:53.570 350c Delete type=2 #13
-2025/04/24-18:43:53.621 350c Manual compaction at level-0 from '!items!vNb0wtE7AukjwoHF' @ 28 : 1 .. '!items.effects!boQt5qEtG77kdN8X.wfrUM87wcavRNCIk' @ 0 : 0; will stop at (end)
-2025/04/24-18:43:53.621 350c Manual compaction at level-1 from '!folders!B39rR8EzSLktAWLK' @ 72057594037927935 : 1 .. '!items.effects!boQt5qEtG77kdN8X.wfrUM87wcavRNCIk' @ 0 : 0; will stop at '!items!vNb0wtE7AukjwoHF' @ 56 : 1
-2025/04/24-18:43:53.621 350c Compacting 1@1 + 1@2 files
-2025/04/24-18:43:53.663 350c Generated table #18@1: 23 keys, 29488 bytes
-2025/04/24-18:43:53.663 350c Compacted 1@1 + 1@2 files => 29488 bytes
-2025/04/24-18:43:53.686 350c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/24-18:43:53.686 350c Delete type=2 #9
-2025/04/24-18:43:53.688 350c Delete type=2 #17
-2025/04/24-18:43:53.751 350c Manual compaction at level-1 from '!items!vNb0wtE7AukjwoHF' @ 56 : 1 .. '!items.effects!boQt5qEtG77kdN8X.wfrUM87wcavRNCIk' @ 0 : 0; will stop at (end)
+2025/04/24-22:03:57.105 451c Recovering log #15
+2025/04/24-22:03:57.167 451c Delete type=3 #12
+2025/04/24-22:03:57.189 451c Delete type=0 #15
